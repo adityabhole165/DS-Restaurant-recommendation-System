@@ -10,8 +10,10 @@
 
 ### Home Page:
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1A7LQAsf-VSwH9aaV3Hoe6HNFSkcW75xA" width="800" alt="Image 2">
+  <img src="https://drive.google.com/uc?export=view&id=1A7LQAsf-VSwH9aaV3Hoe6HNFSkcW75xA" width="800" alt="Image 2"><br>
+  <a href="https://drive.google.com/file/d/1nMMX82nUfSFJzAem7b5e9LQAdsN-djvr/view?usp=sharing" target="_blank">📥 Download File</a>
 </p>
+
 
 ### Input Page:
 <p align="center">
