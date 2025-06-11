@@ -23,7 +23,7 @@
 
 ### Recommendation Output:
 <p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1HuFP_R1lDc6fNU0wAM5POq5HwfuipjEI" width="800" alt="Image 3">
+<img src="https://drive.google.com/uc?export=view&id=1qZGy8vBqx7frD_5WfRY2pHGnOVIHqb7c" alt="Image" width="800">
 </p>
 
 ## **Installation and Setup**
