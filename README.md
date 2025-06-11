@@ -17,7 +17,8 @@
 
 ### Input Page:
 <p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1UdSUpmxsSX8U4m-FUajcVXhyxH7Hbbcp" width="800" alt="Image 1">
+ <img src="https://drive.google.com/uc?export=view&id=1nMMX82nUfSFJzAem7b5e9LQAdsN-djvr" alt="Image" width="800">
+
 </p>
 
 ### Recommendation Output:
