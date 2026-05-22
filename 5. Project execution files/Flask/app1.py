@@ -26,8 +26,8 @@ app = Flask(__name__)
 tfidf_matrix = None
 
 # Load the updated dataset
-zomato_df = pd.read_csv(r'D:\SmartInternz\projects\Restaurant-Recommendation-System\Flask\restaurant1.csv')
-
+# ✅ Relative path — works everywhere
+zomato_df = pd.read_csv('restaurant1.csv')
 def get_recommendations(restaurant_name):
     # Find the details of the input restaurant
     input_restaurant = zomato_df[zomato_df['name'] == restaurant_name].iloc[0]
