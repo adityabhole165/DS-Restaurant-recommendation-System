@@ -28,7 +28,8 @@ app = Flask(__name__)
 tfidf_matrix = None
 
 # Load the updated dataset
-zomato_df = pd.read_csv(r'C:\Users\Aditya\OneDrive\Desktop\SI-GuidedProject-600965-1697645998-main\Flask\restaurant1.csv')
+# ✅ Relative path — works everywhere
+zomato_df = pd.read_csv('restaurant1.csv')
 
 def get_recommendations(restaurant_name):
     # Find the details of the input restaurant
