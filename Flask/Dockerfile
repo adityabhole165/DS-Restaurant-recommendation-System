@@ -9,8 +9,9 @@ RUN apt-get update && apt-get install -y \
 
 COPY requirements.txt .
 
-RUN pip install --upgrade pip && \
+RUN pip install --upgrade pip setuptools wheel && \
     pip install numpy==1.26.4 && \
+    pip install scikit-surprise==1.1.3 --no-build-isolation && \
     pip install -r requirements.txt
 
 COPY . .
